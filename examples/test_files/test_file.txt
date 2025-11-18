@@ -1,0 +1,10 @@
+SMARTSYNC_TEST; id=0001; ts=2025-11-17T20:00:00Z
+{"path":"docs/notes.txt","version":1,"size":128,"sha256":"a3f5b2c9e8f4d1b2c3e4f5a6b7c8d9e0"}
+user,line,42,active
+GUID: 3f2504e0-4f89-11d3-9a0c-0305e82c3301
+emoji-check: ✅ 🌍 🔁
+长文本测试 — includes non-ASCII characters and accents: café, niño, façade
+LONG_LINE: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel ligula scelerisque, finibus odio et, consequat nunc.
+b64hash: YmFzZTY0X3Rlc3RfaGFzaF9zYW1wbGU= 
+file: /home/user/projects/sync/test_input/example.bin
+LAST_MODIFIED=2025-11-17T20:00:05Z; user=bro
